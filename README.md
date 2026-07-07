@@ -81,9 +81,9 @@ The app displays:
 
 ### app/model/extratrees_model.joblib
 
-This file contains the saved trained ExtraTrees model.
+The trained model file is not included in this repository because it is too large for GitHub.
 
-The Shiny app loads this file to make predictions.
+To run the Shiny app, place the trained model here:
 
 ### requirements.txt
 
