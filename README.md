@@ -33,17 +33,12 @@ smart-home-sound-detection/
 │
 ├── app/
 │   ├── app.py
-│   └── model/
-│       └── extratrees_model.joblib
 │
 ├── notebooks/
 │   └── challenge_solution.ipynb
 │
 ├── assets/
 │   └── plots/
-│
-├── docs/
-│   └── MLPC_Task5_Simple_Slides.pptx
 │
 ├── .gitignore
 ├── README.md
